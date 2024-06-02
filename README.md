@@ -3,7 +3,10 @@ Speedrunner Tools API Auto-Completion for [Notepad++](https://notepad-plus-plus.
 
 ## Usage
 To use, you need to place **cpp.xml** in a folder at the path `.../Notepad++/autoCompletion/cpp.xml`. Restart Notepad++.
+
 Please note that _administrator rights_ are required to replace the file.
+
+**Also, for auto-completion to work, you need to enable C++ syntax highlighting!**
 
 ## Links
 * [Notepad++](https://notepad-plus-plus.org/)
